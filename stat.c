@@ -1,6 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 #include <sys/stat.h>
 #include <sys/types.h>
+#include <sys/sysmacros.h>
 
 #include <inttypes.h>
 #include <stdio.h>
